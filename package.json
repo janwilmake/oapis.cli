@@ -1,0 +1,21 @@
+{
+  "name": "oapis",
+  "version": "1.0.0",
+  "description": "One-command installer for OpenAPI SDKs",
+  "main": "index.js",
+  "bin": {
+    "oapis": "./cli.js"
+  },
+  "keywords": [
+    "openapi",
+    "sdk",
+    "api",
+    "client",
+    "generator"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
