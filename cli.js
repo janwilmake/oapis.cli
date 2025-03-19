@@ -1,8 +1,6 @@
 #!/usr/bin/env node
 
 const { execSync } = require("child_process");
-const path = require("path");
-const fs = require("fs");
 
 // Command line args (skip node and script name)
 const args = process.argv.slice(2);
